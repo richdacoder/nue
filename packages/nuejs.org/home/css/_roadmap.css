@@ -23,8 +23,7 @@
       height: fit-content;
     }
   }
-
-
+  
   header {
     background-color: var(--gray-50);
     border-bottom: var(--border);
